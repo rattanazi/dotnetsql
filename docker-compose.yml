@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  webappnew:
+    image: webappnew
+    build:
+      context: .
+      dockerfile: WebAppNew\Dockerfile

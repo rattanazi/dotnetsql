@@ -1,0 +1,11 @@
+C:\Rattana\projects\WebAppNew\WebAppNew\bin\Release\netcoreapp2.0\WebAppNew.deps.json
+C:\Rattana\projects\WebAppNew\WebAppNew\bin\Release\netcoreapp2.0\WebAppNew.runtimeconfig.json
+C:\Rattana\projects\WebAppNew\WebAppNew\bin\Release\netcoreapp2.0\WebAppNew.runtimeconfig.dev.json
+C:\Rattana\projects\WebAppNew\WebAppNew\bin\Release\netcoreapp2.0\WebAppNew.dll
+C:\Rattana\projects\WebAppNew\WebAppNew\bin\Release\netcoreapp2.0\WebAppNew.pdb
+C:\Rattana\projects\WebAppNew\WebAppNew\obj\Release\netcoreapp2.0\WebAppNew.csproj.CoreCompileInputs.cache
+C:\Rattana\projects\WebAppNew\WebAppNew\obj\Release\netcoreapp2.0\WebAppNew.AssemblyInfoInputs.cache
+C:\Rattana\projects\WebAppNew\WebAppNew\obj\Release\netcoreapp2.0\WebAppNew.AssemblyInfo.cs
+C:\Rattana\projects\WebAppNew\WebAppNew\obj\Release\netcoreapp2.0\WebAppNew.dll
+C:\Rattana\projects\WebAppNew\WebAppNew\obj\Release\netcoreapp2.0\WebAppNew.pdb
+C:\Rattana\projects\WebAppNew\WebAppNew\obj\Release\netcoreapp2.0\WebAppNew.csprojResolveAssemblyReference.cache

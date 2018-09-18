@@ -1,0 +1,15 @@
+networks:
+  default:
+    external:
+      name: nat
+services:
+  webappnew:
+    build:
+      context: C:\Rattana\projects\WebAppNew
+      dockerfile: WebAppNew\Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: webappnew
+    ports:
+    - 80/tcp
+version: '3.0'

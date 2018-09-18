@@ -1,0 +1,12 @@
+C:\Rattana\projects\WebAppNew\WebAppNew
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=WebAppNew
+--content-root=C:\Rattana\projects\WebAppNew\WebAppNew
+--file=C:\Rattana\projects\WebAppNew\WebAppNew\Pages\About.cshtml
+--file=C:\Rattana\projects\WebAppNew\WebAppNew\Pages\Contact.cshtml
+--file=C:\Rattana\projects\WebAppNew\WebAppNew\Pages\Error.cshtml
+--file=C:\Rattana\projects\WebAppNew\WebAppNew\Pages\Index.cshtml
+--file=C:\Rattana\projects\WebAppNew\WebAppNew\Pages\_Layout.cshtml
+--file=C:\Rattana\projects\WebAppNew\WebAppNew\Pages\_ValidationScriptsPartial.cshtml
+--file=C:\Rattana\projects\WebAppNew\WebAppNew\Pages\_ViewImports.cshtml
+--file=C:\Rattana\projects\WebAppNew\WebAppNew\Pages\_ViewStart.cshtml
